@@ -7,7 +7,7 @@ A Weather Forecast project buit with React, Chakra UI and [WeatherApi](https://w
 
 ### Live Demo
 
-https://react-weather-fc.web.app/
+https://what-weather.vercel.app/
 
 ### Screenshots
 
@@ -37,4 +37,4 @@ npm start / npm run build
 
 ### Meta
 
-Hourmeng Khy
+Abhijeet Hiwale
