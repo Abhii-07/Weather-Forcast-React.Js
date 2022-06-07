@@ -23,12 +23,12 @@ const SearchBar = () => {
 
   // Light mode | Dark mode style
   const color = useColorModeValue('gray.400', 'gray.600');
-
+  const key = "18260b3bdaa24906aa250028220706" ;
   useEffect(() => {
     const searchWeatherHandler = async (search) => {
       try {
         const response = await fetch(
-          `https://api.weatherapi.com/v1/search.json?key=${process.env.REACT_APP_API_KEY}&q=${search}`
+          `https://api.weatherapi.com/v1/search.json?key=${key}&q=${search}`
         );
         if (!response.ok) {
           throw new Error(response.statusText);
