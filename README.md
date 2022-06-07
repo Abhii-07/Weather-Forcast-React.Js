@@ -24,7 +24,7 @@ https://what-weather.vercel.app/
 ### Installation
 
 ```
-git clone https://github.com/hourmeng12/weather-forecast
+git clone https://github.com/Abhii-07/Weather-Forcast-React.Js
 
 npm install
 ```
