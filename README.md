@@ -35,6 +35,3 @@ Sign up for [Weatherapi](https://www.weatherapi.com) and create `.env.local` fil
 npm start / npm run build
 ```
 
-### Meta
-
-Abhijeet Hiwale
